@@ -1,6 +1,6 @@
-import Item from './item';
-import Iterator from './iterator';
-import Array from './array';
+import Item from './Item';
+import Iterator from './Iterator';
+import Array from './Array';
 
 class ArrayIterator implements Iterator<Item> {
     private index: number;

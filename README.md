@@ -39,3 +39,4 @@
 - 약 세달간의 승부 예측 수익 보고서를 볼 수 있는지?
 
 #### 사용하지 않는 광고 슬롯 정리
+https://docs.google.com/spreadsheets/d/1ca4gbNCGlz01ENxNbJ2t9c6Y5aXXdNMUJBpHjm9H7WE/edit?gid=0#gid=0
